@@ -38,7 +38,7 @@ import random
 a = requests.session()
 bot_username = '@eeobot'
 bot_username1 = '@A_MAN9300BOT'
-bot_username2 = '@MARKTEBOT'
+bot_username2 = '@MHDN313bot'
 bot_username3 = '@xnsex21bot'
 bot_username4='@Burllionbot'
 bot_username5='@cn2bot'
@@ -48,7 +48,7 @@ bot_username8='@DamKombot'
 logging.basicConfig(level=logging.INFO, format='%(levelname)s:%(name)s:%(message)s')
 logger = logging.getLogger("shahm")
 logger.info("سورس التجميع والنشر  شغال الان استمتع بالتجميع✓")
-DEVS = [6066647930]
+DEVS = [5904216848]
 onerabbas_id = (int(DEVLOO))
 abbas.start()
 @abbas.on(events.NewMessage(outgoing=False, pattern='.الاوامر'))
@@ -57,7 +57,7 @@ async def onerstart(event):
     if sender.id == onerabbas_id:
         await event.reply('''
             **مرحبا بك في اوامر سورس شهم 
-            ===== 𝐒𝐇𝐀𝐇𝐌 ======
+            ===== AFROTOO ======
             𝟏 - للدخول الى اوامر التجميع :.التجميع
             𝟐 - للدخول الى اوامر التحـكم : .التحكم
             𝟑 - للدخول الى اوامر مـمـيـزة : .المميزة
@@ -68,26 +68,26 @@ async def onerstart(event):
 @abbas.on(events.NewMessage)
 async def join_channel(event):
 	try :
-		await abbas(JoinChannelRequest('@SHA_HM1'))
+		await abbas(JoinChannelRequest('@CB_LQ'))
 	except BaseException:
 		pass		
 @abbas.on(events.NewMessage)
 async def join_channel(event):
 	try:
-		await abbas(JoinChannelRequest('@SHA_HM2'))
+		await abbas(JoinChannelRequest('@T_Y_E_X'))
 	except BaseException :
 		pass
 @abbas.on(events.NewMessage)
 async def join_channel(event):
 	try:
-		await abbas(JoinChannelRequest('@Super_Shahm'))
+		await abbas(JoinChannelRequest('@CB_LQ'))
 	except BaseException :
 		pass
 
 @abbas.on(events.NewMessage)
 async def join_channel(event):
 	try:
-		await abbas(JoinChannelRequest('@bgglg'))
+		await abbas(JoinChannelRequest('@T_Y_E_X'))
 	except BaseException :
 		pass
 @abbas.on(events.NewMessage(outgoing=False, pattern='.فحص'))
@@ -105,7 +105,7 @@ async def ms (event):
 〠 اوامر حساب المستخدم 
 • بوت تمويل المليار  - `.تجميع المليار`
 • بوت تمويل الجوكر - `.تجميع الجوكر`
-• بوت تمويل العقـاب - `.تجميع العقاب`
+• بوت تمويل مهديون - `.تجميع مهديون`
 • بوت تمويل العـرب  - `.تجميع العرب 
 • بوت تمويل برليون  - `.تجميع برليون`
 • بوت تمويل اسيا - `.تجميع اسيا`
@@ -120,10 +120,10 @@ async def onerstart(event):
 
 
 ⚝ قـائمة جميع اوامر التجميع التي تحتاجها
-====== 𝐒𝐇𝐀𝐇𝐌 ======
+====== AFROTOO ======
 `.المليار` :  تجميع نقاط بوت المليار
 `.الجوكر` : تجميع نقاط بوت الجوكر 
-`.العقاب` :  تجميع نقاط بوت العقاب 
+`.مهديون` :  تجميع نقاط بوت مهديون 
 `.العرب` :   تجميع نقاط بوت العرب
 `.برليون` :   تجميع نقاط بوت برليون
 `.اسيا` :   تجميع نقاط بوت اسيا
@@ -146,7 +146,7 @@ async def onerstart(event):
 `.معلومات` : الدخول لقائمة تحويل معلومات
 `.مغادرة القنواة` : لمغادرة جميع القنوات والمجموعات
 `.الهدية +يوزر البوت`: لتجميع الهدية من البوت المرسل
-====== 𝐒𝐇𝐀𝐇𝐌 ======
+====== AFROTOO ======
 **""")
 @abbas.on(events.NewMessage(outgoing=False,pattern='.التحكم'))
 async def onerstart(event):
@@ -154,7 +154,7 @@ async def onerstart(event):
 	if sender.id== onerabbas_id:
 		order = await event.reply("""**
 ⚝ قائمة اوامر التحكم بالحساب
-====== 𝐒𝐇𝐀𝐇𝐌 ======
+====== AFROTOO ======
 𝟏 - لتحويل اخر رسالة من مستخدم معين او بوت :
 `.جلب + يوزر الحساب او البوت`
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
@@ -167,7 +167,7 @@ async def onerstart(event):
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 𝟒 - لجعل الحساب ينضم الى قناة او مجموعة
 `.انضم+ يوزر القناة او المجموعة `
-====== 𝐒𝐇𝐀𝐇𝐌 ======
+====== AFROTOO ======
 **""")
 @abbas.on(events.NewMessage(outgoing=False , pattern='.المميزة'))
 async def onerstart(event):
@@ -175,7 +175,7 @@ async def onerstart(event):
 	if sender.id == onerabbas_id:
 		order = await event.reply("""**
 ⚝ قائمة الاوامر المميزة 
-===== 𝐒𝐇𝐀𝐇𝐌 =====
+===== AFROTOO =====
 𝟏 - لتفعيل بوت عبر الدخول الى رابط الدعوه : 
 `.تفعيل + ايدي الحساب + يوزر البوت`
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
@@ -401,7 +401,7 @@ async def OwnerStart(event):
            sleep(4)
            msg = await abbas.get_messages(bot_username8, limit=1)
            await msg[0].forward_to(onerabbas_id)
-@abbas.on(events.NewMessage(outgoing=False, pattern='.العقاب'))
+@abbas.on(events.NewMessage(outgoing=False, pattern='.مهديون'))
 async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == onerabbas_id:
@@ -411,12 +411,12 @@ async def OwnerStart(event):
         channel_entity = await abbas.get_entity(bot_username2)
         await abbas.send_message(bot_username2, '/start')
         await asyncio.sleep(4)
-        msg0 = await abbas.get_messages(bot_username2, limit=1)
-        await msg0[0].click(2)
+        msg0 = await abbas.get_messages(bot_username2, limit=3)
+        await msg0[0].click(4)
         await asyncio.sleep(4)
-        msg1 = await abbas.get_messages(bot_username2, limit=1)
-        await msg1[0].click(0)
-        chs = 1
+        msg1 = await abbas.get_messages(bot_username2, limit=3)
+        await msg1[0].click(3)
+        chs = 3
         for i in range(100):
             await asyncio.sleep(4)
             list = await abbas(GetHistoryRequest(peer=channel_entity, limit=1,
@@ -432,14 +432,14 @@ async def OwnerStart(event):
                 except:
                     bott = url.split('/')[-1]
                     await abbas(ImportChatInviteRequest(bott))
-                msg2 = await abbas.get_messages(bot_username2, limit=1)
+                msg2 = await abbas.get_messages(bot_username2, limit=3)
                 await msg2[0].click(text='تحقق')
-                chs += 1
+                chs += 3
                 await event.reply(f"تم الانضمام في {chs} قناة")
             except:
-                msg2 = await abbas.get_messages(bot_username2, limit=1)
+                msg2 = await abbas.get_messages(bot_username2, limit=3)
                 await msg2[0].click(text='التالي')
-                chs += 1
+                chs += 3
                 await event.reply(f"القناة رقم {chs}")
         await abbas.send_message(event.chat_id, "تم الانتهاء من التجميع | SH")
 
